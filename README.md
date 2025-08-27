@@ -3,6 +3,9 @@ https://www.cloudskillsboost.google/paths/16/course_templates/54/labs/521418
 
 <img width="1304" height="739" alt="image" src="https://github.com/user-attachments/assets/e2936dfe-7e53-4fac-93fa-73cf4e777707" />
 <img width="1131" height="570" alt="image" src="https://github.com/user-attachments/assets/55137d2d-e3a6-4d62-bff2-06a92c7934a3" />
+<img width="1139" height="644" alt="image" src="https://github.com/user-attachments/assets/96ed4779-d99f-4c47-b5ba-64d4e285d8d1" />
+<img width="1137" height="653" alt="image" src="https://github.com/user-attachments/assets/5ec33985-59ab-4c8d-bff7-cda4d5c06f3d" />
+
 <img width="1153" height="627" alt="image" src="https://github.com/user-attachments/assets/e36a3af2-3f99-4c8f-8295-845901367747" />
 <img width="1139" height="617" alt="image" src="https://github.com/user-attachments/assets/4bc0c5f8-a1ab-4464-8ee6-63cda941d18b" />
 <img width="1149" height="626" alt="image" src="https://github.com/user-attachments/assets/9ae84394-a11b-4da5-afa7-5972c261f29f" />
